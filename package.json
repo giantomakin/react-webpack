@@ -1,5 +1,5 @@
 {
-  "name": "webpack-4-quickstart",
+  "name": "react-weback-starter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "build": "webpack --mode production"
   },
   "keywords": [],
-  "author": "",
+  "author": "Gian Tomakin",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.0.1",
